@@ -1,2 +1,2 @@
-# HUB_proximament
+# HUB_proximamente
 Sitio disponible próximamente
